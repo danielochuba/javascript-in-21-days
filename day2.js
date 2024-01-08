@@ -6,4 +6,3 @@ const obj = {
 
 var firstName = 'Daniel';
 var lastName = 'Ochuba';
-
