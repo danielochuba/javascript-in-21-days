@@ -9,3 +9,5 @@ function oddEven(num) {
     console.log(`${num} is an odd number`)
     }
 }
+
+oddEven(23)
